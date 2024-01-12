@@ -3,7 +3,7 @@
 * 암스트롱의 공리
 ** **반사(Reflexivity)**: X ⊇ Y 이면 X → Y
 ** **첨가(Augmentation)**: X → Y 이면 어떠한 Z에 대해서도 XZ → YZ
-** **이행(Transitivity)**: X → Y이고 X → Z 이면 X → Z
+** **이행(Transitivity)**: X → Y이고 Y → Z 이면 X → Z
 * 이외의 규칙
 ** **결합(Union)**: X → Y이고 X → Z 이면 X → YZ
 ** **분해(Decomposition)**: X → YZ이면, X → Y 이고 X → Z
